@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheZ</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="todo" />
+    <string name="search">Search</string>
+    <string name="btn_search">TODO</string>
+    <string name="dark_mode" />
+</resources>
